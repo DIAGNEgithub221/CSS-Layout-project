@@ -1,0 +1,184 @@
+nav{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+li{
+    display: inline;
+    justify-content: space-between;
+    margin: 13px;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2{
+    font-size: 25px;
+}
+.flex{
+    display: flex;
+    justify-content:;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+p{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #B9AEAB;
+
+    
+}
+.mar{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+.img{
+    margin-left: 45%;
+}
+.flex2{
+    display: grid;
+    grid-template-columns: 20px;
+    grid-template-rows: 20px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 46% 46%;
+    grid-template-areas: 10px;
+    gap: 2%;
+}
+main{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.mark{
+    margin-left: 20%;
+    padding: 5px;
+    color: #00B3A1;
+    font-size: 25px;
+}
+.image{
+    margin-left: 45%;
+    margin-top: 35px;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; height: 380px;
+    gap: 22px;
+
+}
+.col1{
+    background-color: #00CCB1;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+
+}
+.col2{
+    background-color: #508FE2;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+
+}
+.col3{
+    background-color: #1B2734;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+}
+.tuotempo{
+    width: 350px;
+    height: 25px;
+}
+.gipo{
+    width: 500px;
+    height: 35px;
+}
+.section2{
+    display: flex;
+    justify-content: space-arounds;
+    margin: 60px;
+    content: icon;
+}
+.simple{
+    width: 50px;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+    background-color: #D9F7F6;
+    height: 690px;
+}
+.partiesection3b{
+    display: grid;
+    grid-template-columns:  250px 250px;
+    grid-template-rows: 300px 300px;
+    gap: 20px;
+
+}
+.col{
+    width: 250px;
+    height: 300px;
+    background-color: #FFFFFF;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: center;
+    text-align: center;
+    }
+.partiesection3a{
+    width: 400px;
+    font-size: 28px;
+}
+h3{
+    color: #00B3A1;
+}
+.impro{
+    margin-left: 30%;
+    margin-top: 100px;
+    font-size: 40px;
+
+}
+.para{
+    width: 500px;
+    margin-left: 26%;
+    font-size: 18px;
+}
+.colection{
+    display: grid;
+    grid-template-columns: 450px 450px 450px
+}
+    
+.bogota{
+    width: 60px;
+    height: 60px;
+}
+h4{
+    text-align: center;
+    font-size: 15px;
+}
+.pays{
+    color: #3D83DFs;
+}
+footer{
+    text-align: center;
+    color: #B9AEAB;
+}
+.sounds{
+    font-size: 30px;
+    text-align: center;
+}
+h5{
+    background:#1662C6 ;
+    margin-left: 40%;
+    margin-right: 20%;
+    margin-top: 15px;
+    padding: 18px;
+    font-size: 20px;
+    width: 300px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+.fix{
+    position: sticky;
+    top: 20px;
+    padding: 20px;
+}
